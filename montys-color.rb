@@ -9,6 +9,11 @@ puts "Wow! My favorite color is #{color} also!"
  if color == "blue"
      puts "Wow! My favorite color is #{color} also!"
  end
+else
+    puts "I'm not a big fan of #{color}!"
+
+end
+
 
 # Lesson 5: Adding an Else Statement
 
